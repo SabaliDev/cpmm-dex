@@ -19,7 +19,7 @@ export const theme = createTheme({
       my: 2,
     },
     menuButton: {
-      color: '#fff',
+      color: '#ff00ff',
       borderBottom: "1px solid #fff",
       marginLeft: 2,
       borderRadius: 0,

@@ -18,7 +18,7 @@ const navItems = [{
   title: 'Liquidity',
   link: '/liquidity'
 }];
-const appName = 'DeFi Application';
+const appName = 'DexInfinity';
 
 const Layout = ({ children }) => {
   const theme = useTheme();
