@@ -108,10 +108,4 @@ This project is licensed under the MIT License.
 
 For any inquiries or support, please reach out to mthunzisabali@gmail.com or create an issue on GitHub.
 
----
 
-Thank you for using CPmm DEX! Happy trading!
-
----
-
-This README provides a comprehensive overview of the CPmm DEX, including installation steps, smart contract details, and usage instructions. Make sure to update the placeholder details like the GitHub repository URL and contact email with actual information.
